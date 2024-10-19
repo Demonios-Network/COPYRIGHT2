@@ -17,5 +17,5 @@ OWNER_ID = "7306043964"
 # ------------------------------------------------
 LOGGER_ID = "-1002362871039"
 # ------------------------------------------------
-MONGO_URL = 
+MONGO_URL = "mongodb+srv://tiwarireeta004:peqxLEd36RAg7ors@cluster0.furypd3.mongodb.net/?retryWrites=true&w=majority"
 # ------------------------------------------------
