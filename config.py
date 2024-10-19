@@ -4,18 +4,18 @@
 import os
 from os import getenv
 # ---------------R---------------------------------
-API_ID = int(os.environ.get("API_ID"))
+API_ID = "24074986"
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH")
+API_HASH = "f4f6272a85d0e50e39a24cb378be118d"
 # ----------------D--------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = "8187561421:AAH1JDNxs0YVxOP9JhjE0GB1Z1UhpddPb7s"
 # -----------------A-------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME")
+BOT_USERNAME = "RavenSpyBot"
 # ------------------X------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID"))
+OWNER_ID = "7306043964"
 # ------------------X------------------------------
 # ------------------------------------------------
-LOGGER_ID = int(os.environ.get("LOGGER_ID"))
+LOGGER_ID = "-1002362871039"
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL")
+MONGO_URL = 
 # ------------------------------------------------
